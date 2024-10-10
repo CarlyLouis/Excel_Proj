@@ -25,9 +25,6 @@ This analysis demonstrates proficiency in:
 - Handling large datasets in Excel.
 - Creating detailed, actionable reports using Excel formulas, pivot tables, and charts.
 
-## 📊 Screenshots
-Include some relevant screenshots of your Excel analysis here for better visualization.
-
 ## 🧑‍💻 Author
 - [Carly Louis](https://www.linkedin.com/in/carly-louis-krlification)
 
